@@ -13,9 +13,9 @@ The task was to take a pre-made website and modify it for the following:
   
 This was accomplished through addition of meaningful HTML semantic elements, alt code, better titles, and commenting.
 
-!Depction of aria alt text(https://github.com/PWRiddle/RiddleHW1/blob/main/Extra%20Assets/ariaAlt.JPG?raw=true)
+Depiction of aria alt text(https://github.com/PWRiddle/RiddleHW1/blob/main/Extra%20Assets/ariaAlt.JPG)
 
-!Depction of regular alt text(https://github.com/PWRiddle/RiddleHW1/blob/main/Extra%20Assets/brandAlt.JPG?raw=true)
+Depiction of regular alt text(https://github.com/PWRiddle/RiddleHW1/blob/main/Extra%20Assets/brandAlt.JPG)
   
   
 
